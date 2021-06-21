@@ -1,0 +1,19 @@
+{
+  "name": "tp-3-ings",
+  "version": "1.0.0",
+  "description": "\"calculadora basica en node\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilianoGDY/TP-3-IngS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilianoGDY/TP-3-IngS/issues"
+  },
+  "homepage": "https://github.com/EmilianoGDY/TP-3-IngS#readme"
+}
