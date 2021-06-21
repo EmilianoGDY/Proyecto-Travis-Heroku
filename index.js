@@ -2,8 +2,8 @@
 
 var calculator = require('./app/calculadora');
 
-var a = 3;
-var b = 5;
+var a = 4;
+var b = 6;
 
 console.log(`Add ${a} + ${b} = ${calculator.add(a,b)}`);
 console.log(`Minus ${a} + ${b} = ${calculator.minus(a,b)}`);
