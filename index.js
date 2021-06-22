@@ -2,7 +2,7 @@
 
 var calculator = require('./app/calculadora');
 
-var a = 4;
+var a = z;
 var b = 6;
 
 console.log(`Add ${a} + ${b} = ${calculator.add(a,b)}`);
