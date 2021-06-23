@@ -3,7 +3,7 @@
 var expect = require("chai").expect;
 var calculator = require("../app/calculadora.js");
 
-describe("Calculator - Test", functi() {
+describe("Calculator - Test", function() {
 
   describe("Testing the Operations", function() {
 
