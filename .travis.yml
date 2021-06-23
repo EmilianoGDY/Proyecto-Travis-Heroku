@@ -1,12 +1,2 @@
 language: node_js
 node_js: 12.13.0
-git:
-  depth:3
-script:
-  - yarn test
-deploy:
-  provide:heroku
-  api_key: 81666a30-cf31-4e3e-8523-25e1b22ce3f5
-  app: calculadoraemi
-  on: 
-    repo: EmilianoGDY/TP-3-IngS
