@@ -6,3 +6,5 @@ deploy:
   app: calculadoraemi
   on:
     repo: EmilianoGDY/TP-3-IngS
+notifications:
+  slack: trabajopracti-lpj1177:sER6g0oNl9HmrnI1xPtCxnGC    
